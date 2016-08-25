@@ -7,5 +7,6 @@ Build this in visual studio and grab the .exe file from the bin\Release folder
 
 How to use
 ----------
-1. Create one or more txt files where each line contains a url.
-2. Drag-n-drop the files on the .exe file.
+1. Make sure IE is your default browser.
+2. Create one or more txt files where each line contains a url.
+3. Drag-n-drop the files on the .exe file.
