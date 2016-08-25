@@ -8,4 +8,4 @@ Build this in visual studio and grab the .exe file from the bin\Release folder
 How to use
 ----------
 1. Create one or more txt files where each line contains a url.
-2. Drag-n-drop the files on to the .exe file.
+2. Drag-n-drop the files on the .exe file.
